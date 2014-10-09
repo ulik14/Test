@@ -1,4 +1,4 @@
 Test
 ====
 
-Well, the names says it, doesn't it
+Well, the name says it, doesn't it
